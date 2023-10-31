@@ -31,13 +31,17 @@ git clone https://github.com/shivomv/encryption.git
 
 Here's an example of how to use the MD5 hashing class to compute an MD5 hash of a string in C#:
 
+
+### Code:
 ```csharp
 MD5Hasher md5Hasher = new MD5Hasher();
 string input = "Hello, World!";
 string md5Hash = md5Hasher.ComputeMD5Hash(input);
 Console.WriteLine("MD5 Hash: " + md5Hash);
+```
 
-Repeat a similar process for other hash functions, replacing MD5Hasher with the appropriate class name.
+### Text:
+Repeat a similar process for other hash functions, replacing `MD5Hasher` with the appropriate class name.
 
 ## Author
 This code was created by **Shivom Verma**. Feel free to reach out if you have any questions or suggestions.
