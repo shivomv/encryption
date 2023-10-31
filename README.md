@@ -39,5 +39,5 @@ Console.WriteLine("MD5 Hash: " + md5Hash);
 
 Repeat a similar process for other hash functions, replacing MD5Hasher with the appropriate class name.
 
-#Author
-This code was created by Shivom Verma. Feel free to reach out if you have any questions or suggestions.
+## Author
+This code was created by **Shivom Verma**. Feel free to reach out if you have any questions or suggestions.
